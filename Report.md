@@ -8,36 +8,36 @@ Team Number:
 
 1. What is the purpose of an IP address?
 
-    answer
+    To give each device a unique internet connection address
 
 2. What is a DNS? What are the benefits of using domain names instead of IP addresses?
 
-    answer
+    DNS coverts from domain names to IP addresses. It is for easy readability 
 
 3. What is the difference between a static IP and a dynamic IP?
 
-    answer
+    Dynamic IPs can change
 
 4. What is the tradeoff between UDP and TCP protocols?
 
-    answer
+    UDP sacrifices data accuracy for speed
 
 5. Why can't we use the delay function with Blynk?
 
-    answer
+    The delay function will mess up the wireless communication
 
 6. What does it mean for a function to be "Blocking"?
 
-    answer
+    It blocks all other functions that execute in nearby lines
 
 7. Why are interrupts useful for writing Non-Blocking code?
 
-    answer
+    They don't obstruct other code in the code space very much, and can be triggered with time
 
 8. What is the difference between interface and implementation? Why is it important?
 
-   answer
+   Interface provides the function, and implementation specifies what it actually does
 
 9. Screenshot of your Blynk App:
 
-    ![your image here->](img/placeholder.png)
+    arduinoSS.PNG
